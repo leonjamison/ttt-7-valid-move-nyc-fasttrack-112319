@@ -1,4 +1,15 @@
-# code your #valid_move? method here
+def position_taken?
+  array[index_number]
+  if "[index_number] != [" "]"
+    puts !=
+  end
+end
 
 
-# re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
+def valid_move?
+  if position_taken? || [index_number]
+    puts [!=] == [nil]
+  else
+    puts [!=]
+  end
+end
